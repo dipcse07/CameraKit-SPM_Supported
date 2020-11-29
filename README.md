@@ -9,6 +9,10 @@ https://github.com/CameraKit/camerakit-ios
 
 I added the SPM Surpport for this Package
 
+For documentation pleaes visit official link bellow
+
+https://github.com/CameraKit/camerakit-ios/blob/master/README.md
+
 So now for this repo camerakit-ios supports SPM Package
 
 ### All credits to the respective developers ###
